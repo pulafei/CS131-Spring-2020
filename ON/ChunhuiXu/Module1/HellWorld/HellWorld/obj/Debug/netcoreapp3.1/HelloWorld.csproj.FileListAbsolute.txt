@@ -1,0 +1,12 @@
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
