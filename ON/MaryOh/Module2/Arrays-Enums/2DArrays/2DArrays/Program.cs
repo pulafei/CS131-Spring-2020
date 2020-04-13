@@ -14,6 +14,10 @@ namespace _2DArrays
             table[0, 1] = 2;
             table[0, 2] = 3;
 
+            table[1, 1] = 5;
+
+            table[2, 1] = 8;
+
             // loop through and print the whole 2D array
             for (int x = 0; x < rows; x++) {
                 for (int y = 0; y < columns; y++) {
