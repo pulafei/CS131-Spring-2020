@@ -1,0 +1,13 @@
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

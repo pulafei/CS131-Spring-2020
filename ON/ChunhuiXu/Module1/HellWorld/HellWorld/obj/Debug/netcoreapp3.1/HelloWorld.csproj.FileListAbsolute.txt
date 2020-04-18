@@ -10,3 +10,4 @@ C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\H
 C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
 C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
 C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module1\HellWorld\HellWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache

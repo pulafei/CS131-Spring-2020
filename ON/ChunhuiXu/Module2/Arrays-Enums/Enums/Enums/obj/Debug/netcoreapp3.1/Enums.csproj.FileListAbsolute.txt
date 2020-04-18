@@ -1,0 +1,12 @@
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module2\Arrays-Enums\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache
