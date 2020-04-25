@@ -1,0 +1,13 @@
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.exe
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.deps.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.runtimeconfig.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.runtimeconfig.dev.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.dll
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.pdb
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.csprojAssemblyReference.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.csproj.CoreCompileInputs.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.AssemblyInfoInputs.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.AssemblyInfo.cs
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.dll
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.pdb
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.genruntimeconfig.cache
