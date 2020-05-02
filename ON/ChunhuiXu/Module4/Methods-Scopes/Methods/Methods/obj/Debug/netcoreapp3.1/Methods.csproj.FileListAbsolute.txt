@@ -1,0 +1,13 @@
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module4\Methods-Scopes\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module4\Methods-Scopes\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module4\Methods-Scopes\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module4\Methods-Scopes\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module4\Methods-Scopes\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module4\Methods-Scopes\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module4\Methods-Scopes\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module4\Methods-Scopes\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module4\Methods-Scopes\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module4\Methods-Scopes\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module4\Methods-Scopes\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module4\Methods-Scopes\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module4\Methods-Scopes\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
