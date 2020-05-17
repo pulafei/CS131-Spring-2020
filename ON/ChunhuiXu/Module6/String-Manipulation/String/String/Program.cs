@@ -28,7 +28,7 @@ namespace String
                 Console.WriteLine(message[i]); //prints the value at the index of "message", starting at index 0
             }
 
-            //print all the character at even index of string "message"
+            // print all the character at even index of string "message"
             for (int j = 0; j < message.Length; j += 2)
             {
                 Console.Write(message[j]);
