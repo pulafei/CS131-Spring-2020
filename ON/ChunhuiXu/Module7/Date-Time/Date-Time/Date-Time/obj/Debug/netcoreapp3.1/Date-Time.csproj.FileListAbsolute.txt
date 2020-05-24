@@ -1,0 +1,13 @@
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module7\Date-Time\Date-Time\Date-Time\bin\Debug\netcoreapp3.1\Date-Time.exe
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module7\Date-Time\Date-Time\Date-Time\bin\Debug\netcoreapp3.1\Date-Time.deps.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module7\Date-Time\Date-Time\Date-Time\bin\Debug\netcoreapp3.1\Date-Time.runtimeconfig.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module7\Date-Time\Date-Time\Date-Time\bin\Debug\netcoreapp3.1\Date-Time.runtimeconfig.dev.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module7\Date-Time\Date-Time\Date-Time\bin\Debug\netcoreapp3.1\Date-Time.dll
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module7\Date-Time\Date-Time\Date-Time\bin\Debug\netcoreapp3.1\Date-Time.pdb
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module7\Date-Time\Date-Time\Date-Time\obj\Debug\netcoreapp3.1\Date-Time.csprojAssemblyReference.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module7\Date-Time\Date-Time\Date-Time\obj\Debug\netcoreapp3.1\Date-Time.csproj.CoreCompileInputs.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module7\Date-Time\Date-Time\Date-Time\obj\Debug\netcoreapp3.1\Date-Time.AssemblyInfoInputs.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module7\Date-Time\Date-Time\Date-Time\obj\Debug\netcoreapp3.1\Date-Time.AssemblyInfo.cs
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module7\Date-Time\Date-Time\Date-Time\obj\Debug\netcoreapp3.1\Date-Time.dll
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module7\Date-Time\Date-Time\Date-Time\obj\Debug\netcoreapp3.1\Date-Time.pdb
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module7\Date-Time\Date-Time\Date-Time\obj\Debug\netcoreapp3.1\Date-Time.genruntimeconfig.cache
