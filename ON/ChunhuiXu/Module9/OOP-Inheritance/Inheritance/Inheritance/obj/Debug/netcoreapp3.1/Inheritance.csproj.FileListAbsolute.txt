@@ -1,0 +1,13 @@
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module9\OOP-Inheritance\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module9\OOP-Inheritance\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module9\OOP-Inheritance\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module9\OOP-Inheritance\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module9\OOP-Inheritance\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module9\OOP-Inheritance\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module9\OOP-Inheritance\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csprojAssemblyReference.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module9\OOP-Inheritance\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module9\OOP-Inheritance\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module9\OOP-Inheritance\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module9\OOP-Inheritance\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module9\OOP-Inheritance\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\pulafei\source\repos\CS131-Spring-2020\ON\ChunhuiXu\Module9\OOP-Inheritance\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache
